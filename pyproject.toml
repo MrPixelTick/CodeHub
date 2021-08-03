@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "Python | CodeHub Discord Bot"
-version = "1.2.1"
+version = "1.3.1"
 description = "A discord bot that lets you learn code!"
 authors = ["MrPixelTick#0001, Hydra#4179"]
 

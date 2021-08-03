@@ -1,4 +1,16 @@
+# CodeHUB Info
+#
+# Made By :
+# MrPixelTick#0001[Owner], Hydra#4179[Co-Owner]
+#
+#CodeHUB Version :
+#1.3.1
+#
+#Language :
+#Python -> Discord.PY
+
 #Variables
+
 import os
 import discord
 from webserver import keep_alive
